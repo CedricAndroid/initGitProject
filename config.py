@@ -1,0 +1,3 @@
+USERNAME="XXX"
+PASSWORD="XXX"
+FILEPATH="/Users/XXX/Desktop/"
